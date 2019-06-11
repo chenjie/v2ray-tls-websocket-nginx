@@ -3,6 +3,11 @@ Are we doomed in the year of 2019? Is it gonna be like The Wandering Earth🌎? 
 
 > If you want to keep a *secret*, you must also hide it from *yourself*. (Shadowsocks)
 
+## Tutorial (highly recommended)
+
+* [V2Ray 白话文教程](https://toutyrater.github.io/) (in Chinese)
+* [V2Ray Official Doc](https://v2ray.com/en/index.html) (in English)
+
 ## Prerequisites
 
 * Ubuntu 18.04
