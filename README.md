@@ -11,6 +11,7 @@ Are we doomed in the year of 2019? Is it gonna be like The Wandering Earth🌎? 
 ## Prerequisites
 
 * Ubuntu 18.04
+* Run as `root` user
 * A cup of Java :)
 
 ## Configs
