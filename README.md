@@ -5,8 +5,8 @@ Are we doomed in the year of 2019? Is it gonna be like The Wandering Earth🌎? 
 
 ## Tutorial (highly recommended)
 
-* [V2Ray 白话文教程](https://toutyrater.github.io/) (in Chinese)
-* [V2Ray Official Doc](https://v2ray.com/en/index.html) (in English)
+* [V2Ray 白话文教程](https://toutyrater.github.io/) (Mandarin)
+* [V2Ray Official Doc](https://v2ray.com/en/index.html) (English)
 
 ## Prerequisites
 
