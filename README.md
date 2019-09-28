@@ -14,6 +14,13 @@ Are we doomed in the year of 2019? Is it gonna be like The Wandering Earth🌎? 
 * Run as `root` user
 * A cup of Java :)
 
+## Usage
+
+```
+$ bash auto-config.sh domain_name
+```
+Note: `domain_name` should have DNS A record configured pointing at the static IPv4 address of the VM/VPS.
+
 ## Configs
 
 | Key | Value |
