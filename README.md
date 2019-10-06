@@ -16,9 +16,18 @@ Are we doomed in the year of 2019? Is it gonna be like The Wandering Earth🌎? 
 
 ## Usage
 
+### Set up from scratch
+
 ```
 $ bash auto-config.sh domain_name
 ```
+
+### Renew SSL certificate
+
+```
+$ bash renew-cert.sh domain_name
+```
+
 Note: `domain_name` should have DNS A record configured pointing at the _public_ IPv4 address (not the private one in VPC) of the VM/VPS.
 
 ## Configs
